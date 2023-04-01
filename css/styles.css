@@ -131,7 +131,7 @@ body {
 }
 
 .address-contact {
-    color: red;
+    color: var(--color-navy-blue-modal);
 }
 
 /* Hero */
