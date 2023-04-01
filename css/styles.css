@@ -6,7 +6,7 @@
     --color-slate: #434455;
     --color-light-slate: #8e8f99;
     --color-cornflower: #e7e9fc;
-    --color-cloud:  #F4F4FD;
+    --color-cloud: #F4F4FD;
     --color-navy-blue-modal: #2e2f42;
     --color-grey: #2e2f42;
 
@@ -76,9 +76,7 @@ body {
 
 }
 
-.heder-list {
-
-}
+.heder-list {}
 
 
 
@@ -113,25 +111,23 @@ body {
     font-style: normal;
 }
 
-.address-list {
-  
-}
+.address-list {}
 
 .address-item {}
 
-.address-link {
+.address-contact {
     font-style: normal;
-    
+
     color: var(--color-slate);
 }
 
-.address-link:hover,
-.address-link:focus {
+.address-contact:hover,
+.address-contact:focus {
     color: var(--color-ocean);
 }
 
 .address-contact {
-    color: var(--color-navy-blue-modal);
+    color: var(--color-slate);
 }
 
 /* Hero */
@@ -224,9 +220,7 @@ body {
     color: var(--color-navy-blue);
 }
 
-.team-list {
-    
-}
+.team-list {}
 
 .list {}
 
@@ -310,9 +304,9 @@ body {
 
 .btn-port:hover,
 .btn-port:focus {
-  color: var(--color-white);
-  background-color: var(--color-ocean);
-    
+    color: var(--color-white);
+    background-color: var(--color-ocean);
+
 }
 
 /* Menu */
