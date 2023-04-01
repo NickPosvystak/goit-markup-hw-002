@@ -76,7 +76,9 @@ body {
 
 }
 
-.heder-list {}
+.heder-list {
+
+}
 
 
 
@@ -129,7 +131,7 @@ body {
 }
 
 .address-contact {
-    color: var(--color-slate);
+    color: red;
 }
 
 /* Hero */
